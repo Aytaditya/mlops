@@ -1,0 +1,8 @@
+python-dotenv
+uvicorn 
+fastapi 
+langchain
+langchain-groq
+tiktoken
+rapidocr-onnxruntime
+langchain-community
